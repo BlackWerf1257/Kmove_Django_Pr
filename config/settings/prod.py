@@ -2,3 +2,4 @@
 from .base import *
 
 ALLOWED_HOSTS = ['15.164.159.62']
+STATIC_ROOT = BASE_DIR / 'static/'
